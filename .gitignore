@@ -1,0 +1,10 @@
+outfile/*.xls;xlsx;csv
+.idea/
+.proxyai/
+bak/
+build/
+dist/
+merge_log.log
+merge_excel.spec
+merge_excel.exe
+config.ini
