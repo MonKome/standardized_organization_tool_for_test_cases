@@ -6,5 +6,5 @@
 /dist/
 *.log
 merge_excel.spec
-merge_excel.exe
+bak/merge_excel.exe
 config.ini
