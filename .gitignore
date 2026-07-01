@@ -1,10 +1,10 @@
-outfile/*.xls;xlsx;csv
+/outfile/*.xlsx
 .idea/
 .proxyai/
-bak/
-build/
-dist/
-merge_log.log
+/bak/
+/build/
+/dist/
+*.log
 merge_excel.spec
 merge_excel.exe
 config.ini
